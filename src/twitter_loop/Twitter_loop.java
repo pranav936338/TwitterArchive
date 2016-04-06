@@ -104,7 +104,7 @@ public class Twitter_loop {
 
     /**
      * initMongoDB been called in constructor so every object creation this
-     * initialize MongoDB.
+     * initialize MongoDB
      */
     public void initMongoDB() throws MongoException {
         try {
